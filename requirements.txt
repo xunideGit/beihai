@@ -1,1 +1,11 @@
-streamlit
+pandas
+numpy>=1.21.0
+openpyxl
+Pillow
+fonttools
+streamlit>=1.18.0
+matplotlib==3.10.1
+seaborn
+plotly
+python-dateutil
+requests
